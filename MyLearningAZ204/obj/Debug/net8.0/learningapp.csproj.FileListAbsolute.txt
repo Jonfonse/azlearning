@@ -1,0 +1,60 @@
+C:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo en .net\learningapp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo en .net\learningapp\bin\Debug\net8.0\appsettings.json
+C:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo en .net\learningapp\bin\Debug\net8.0\learningapp.staticwebassets.runtime.json
+C:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo en .net\learningapp\bin\Debug\net8.0\learningapp.exe
+C:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo en .net\learningapp\bin\Debug\net8.0\learningapp.deps.json
+C:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo en .net\learningapp\bin\Debug\net8.0\learningapp.runtimeconfig.json
+C:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo en .net\learningapp\bin\Debug\net8.0\learningapp.dll
+C:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo en .net\learningapp\bin\Debug\net8.0\learningapp.pdb
+C:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo en .net\learningapp\obj\Debug\net8.0\learningapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo en .net\learningapp\obj\Debug\net8.0\learningapp.AssemblyInfoInputs.cache
+C:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo en .net\learningapp\obj\Debug\net8.0\learningapp.AssemblyInfo.cs
+C:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo en .net\learningapp\obj\Debug\net8.0\learningapp.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo en .net\learningapp\obj\Debug\net8.0\learningapp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo en .net\learningapp\obj\Debug\net8.0\learningapp.RazorAssemblyInfo.cache
+C:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo en .net\learningapp\obj\Debug\net8.0\learningapp.RazorAssemblyInfo.cs
+C:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo en .net\learningapp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo en .net\learningapp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo en .net\learningapp\obj\Debug\net8.0\staticwebassets\msbuild.learningapp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo en .net\learningapp\obj\Debug\net8.0\staticwebassets\msbuild.build.learningapp.props
+C:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo en .net\learningapp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.learningapp.props
+C:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo en .net\learningapp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.learningapp.props
+C:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo en .net\learningapp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo en .net\learningapp\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo en .net\learningapp\obj\Debug\net8.0\scopedcss\bundle\learningapp.styles.css
+C:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo en .net\learningapp\obj\Debug\net8.0\scopedcss\projectbundle\learningapp.bundle.scp.css
+C:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo en .net\learningapp\obj\Debug\net8.0\learningapp.dll
+C:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo en .net\learningapp\obj\Debug\net8.0\refint\learningapp.dll
+C:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo en .net\learningapp\obj\Debug\net8.0\learningapp.pdb
+C:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo en .net\learningapp\obj\Debug\net8.0\learningapp.genruntimeconfig.cache
+C:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo en .net\learningapp\obj\Debug\net8.0\ref\learningapp.dll
+c:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo.net\learningapp\bin\Debug\net8.0\appsettings.Development.json
+c:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo.net\learningapp\bin\Debug\net8.0\appsettings.json
+c:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo.net\learningapp\bin\Debug\net8.0\learningapp.staticwebassets.runtime.json
+c:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo.net\learningapp\bin\Debug\net8.0\learningapp.exe
+C:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo.net\learningapp\bin\Debug\net8.0\learningapp.deps.json
+C:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo.net\learningapp\bin\Debug\net8.0\learningapp.runtimeconfig.json
+c:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo.net\learningapp\bin\Debug\net8.0\learningapp.dll
+c:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo.net\learningapp\bin\Debug\net8.0\learningapp.pdb
+c:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo.net\learningapp\obj\Debug\net8.0\learningapp.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo.net\learningapp\obj\Debug\net8.0\learningapp.AssemblyInfoInputs.cache
+c:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo.net\learningapp\obj\Debug\net8.0\learningapp.AssemblyInfo.cs
+c:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo.net\learningapp\obj\Debug\net8.0\learningapp.csproj.CoreCompileInputs.cache
+c:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo.net\learningapp\obj\Debug\net8.0\learningapp.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo.net\learningapp\obj\Debug\net8.0\learningapp.RazorAssemblyInfo.cache
+c:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo.net\learningapp\obj\Debug\net8.0\learningapp.RazorAssemblyInfo.cs
+c:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo.net\learningapp\obj\Debug\net8.0\staticwebassets.build.json
+c:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo.net\learningapp\obj\Debug\net8.0\staticwebassets.development.json
+c:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo.net\learningapp\obj\Debug\net8.0\staticwebassets\msbuild.learningapp.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo.net\learningapp\obj\Debug\net8.0\staticwebassets\msbuild.build.learningapp.props
+c:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo.net\learningapp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.learningapp.props
+c:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo.net\learningapp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.learningapp.props
+c:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo.net\learningapp\obj\Debug\net8.0\staticwebassets.pack.json
+c:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo.net\learningapp\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+c:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo.net\learningapp\obj\Debug\net8.0\scopedcss\bundle\learningapp.styles.css
+c:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo.net\learningapp\obj\Debug\net8.0\scopedcss\projectbundle\learningapp.bundle.scp.css
+c:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo.net\learningapp\obj\Debug\net8.0\learningapp.dll
+c:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo.net\learningapp\obj\Debug\net8.0\refint\learningapp.dll
+c:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo.net\learningapp\obj\Debug\net8.0\learningapp.pdb
+C:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo.net\learningapp\obj\Debug\net8.0\learningapp.genruntimeconfig.cache
+C:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo.net\learningapp\obj\Debug\net8.0\ref\learningapp.dll

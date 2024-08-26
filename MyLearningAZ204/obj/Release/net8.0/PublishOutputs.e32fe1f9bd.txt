@@ -1,0 +1,7 @@
+C:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo en .net\learningapp\bin\Publish\learningapp.exe
+C:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo en .net\learningapp\bin\Publish\appsettings.Development.json
+C:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo en .net\learningapp\bin\Publish\appsettings.json
+C:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo en .net\learningapp\bin\Publish\learningapp.dll
+C:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo en .net\learningapp\bin\Publish\learningapp.deps.json
+C:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo en .net\learningapp\bin\Publish\learningapp.runtimeconfig.json
+C:\Users\Jonathan Fonseca\Documents\certificacion AZ-204\codigo en .net\learningapp\bin\Publish\learningapp.pdb
